@@ -5,7 +5,7 @@
 | KELAS  | TI.23.A6 |
 | DOSEN  | Agung Nugroho,S.Kom.,M.Kom |
 | MATKUL | Basis Data                 |
-### DATA MODEL MAPPING
+### Data Model Maping
 Mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
 
 Dosen (kd_ds, nama)
